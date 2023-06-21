@@ -18,4 +18,5 @@ namespace DesignPatterns.Basics
     {
         int IPetFood.Energy => 8;
     }
+
 }
