@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace src.creational.FactoryMethod
+namespace RealWorldExamples.src.creational.FactoryMethod
 {
     // The Dialog class declares the factory method that is supposed to return
     // an object of a Product class. The Dialog's subclasses usually provide
