@@ -102,7 +102,7 @@ namespace RealWorldExamples.src.creational.FactoryMethod
         }
     }
 
-    public class RunProgram
+    public class RunFactoryMethodProgram
     {
         public static void Main()
         {
