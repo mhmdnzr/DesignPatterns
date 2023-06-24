@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <Folder Include="src\behavioral\" />
+    <Folder Include="src\structural\Bridge\" />
   </ItemGroup>
 
   <ItemGroup>
