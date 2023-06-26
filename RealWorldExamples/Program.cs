@@ -32,4 +32,4 @@ Console.WriteLine("Hello, World!");
  */
 //RunAdapterProgram.Main();
 //RunBridgeProgram.Main();
-RunCompositeProgram.Main();
+//RunCompositeProgram.Main();
