@@ -10,6 +10,7 @@ using RealWorldExamples.src.creational.Singleton.ThreadSafe_Singleton;
 using RealWorldExamples.src.structural.Adapter;
 using RealWorldExamples.src.structural.Bridge;
 using RealWorldExamples.src.structural.Composite;
+using RealWorldExamples.src.structural.Decorator__wrapper_;
 /* end creational design pattern */
 
 
@@ -33,3 +34,4 @@ Console.WriteLine("Hello, World!");
 //RunAdapterProgram.Main();
 //RunBridgeProgram.Main();
 //RunCompositeProgram.Main();
+RunDecoratorProgram.Main();
