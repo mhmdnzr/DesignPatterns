@@ -12,6 +12,7 @@ using RealWorldExamples.src.structural.Bridge;
 using RealWorldExamples.src.structural.Composite;
 using RealWorldExamples.src.structural.Decorator__wrapper_;
 using RealWorldExamples.src.structural.Facade;
+using RealWorldExamples.src.structural.FlyWeight;
 /* end creational design pattern */
 
 
@@ -36,5 +37,6 @@ Console.WriteLine("Hello, World!");
 //RunBridgeProgram.Main();
 //RunCompositeProgram.Main();
 //RunDecoratorProgram.Main();
-RunFacadeProgram.Main();
+//RunFacadeProgram.Main();
+RunFlyweightProgram.Main();
 
