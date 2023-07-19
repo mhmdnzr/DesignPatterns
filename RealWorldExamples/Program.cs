@@ -1,6 +1,7 @@
 ﻿// call app there
 
 /* start creational design pattern */
+using RealWorldExamples.src.behavioral.Observer;
 using RealWorldExamples.src.creational.AbstractFactory;
 using RealWorldExamples.src.creational.Builder;
 using RealWorldExamples.src.creational.FactoryMethod;
@@ -40,5 +41,10 @@ Console.WriteLine("Hello, World!");
 //RunDecoratorProgram.Main();
 //RunFacadeProgram.Main();
 //RunFlyweightProgram.Main();
-RunProxyProgram.Main();
+//RunProxyProgram.Main();
+
+/*
+ Behavioral Design Pattern
+ */
+RunObserverProgram.Main();
 
