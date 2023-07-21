@@ -2,6 +2,7 @@
 
 /* start creational design pattern */
 using RealWorldExamples.src.behavioral.Mediator;
+using RealWorldExamples.src.behavioral.Memento;
 using RealWorldExamples.src.behavioral.Observer;
 using RealWorldExamples.src.creational.AbstractFactory;
 using RealWorldExamples.src.creational.Builder;
@@ -48,5 +49,6 @@ Console.WriteLine("Hello, World!");
  Behavioral Design Pattern
  */
 //RunObserverProgram.Main();
-RunMeiatorProgram.Main();
+//RunMeiatorProgram.Main();
+RunMementoProgram.Main();
 
