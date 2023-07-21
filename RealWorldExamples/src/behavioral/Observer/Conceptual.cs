@@ -1,4 +1,6 @@
-﻿namespace RealWorldExamples.src.behavioral.Observer;
+﻿// notification system
+
+namespace RealWorldExamples.src.behavioral.Observer;
 public interface IObserver
 {
     // Receive update from subject
