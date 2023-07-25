@@ -4,6 +4,7 @@
 using RealWorldExamples.src.behavioral.Mediator;
 using RealWorldExamples.src.behavioral.Memento;
 using RealWorldExamples.src.behavioral.Observer;
+using RealWorldExamples.src.behavioral.State;
 using RealWorldExamples.src.creational.AbstractFactory;
 using RealWorldExamples.src.creational.Builder;
 using RealWorldExamples.src.creational.FactoryMethod;
@@ -50,5 +51,6 @@ Console.WriteLine("Hello, World!");
  */
 //RunObserverProgram.Main();
 //RunMeiatorProgram.Main();
-RunMementoProgram.Main();
+//RunMementoProgram.Main();
+RunStateProgram.Main();
 
