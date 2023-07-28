@@ -2,6 +2,7 @@
 
 /* start creational design pattern */
 using RealWorldExamples.src.behavioral.Command;
+using RealWorldExamples.src.behavioral.Iterator;
 using RealWorldExamples.src.behavioral.Mediator;
 using RealWorldExamples.src.behavioral.Memento;
 using RealWorldExamples.src.behavioral.Observer;
@@ -58,4 +59,5 @@ Console.WriteLine("Hello, World!");
 //RunStateProgram.Main();
 //RunStrategyProgram.Main();
 //RunVisitorProgram.Main();
-RunCommandProgram.Main();
+//RunCommandProgram.Main();
+RunIteratorProgram.Main();
